@@ -15,5 +15,3 @@
 ## 🏆 GitHub Trophies
 ![Alt](https://github-profile-trophy.vercel.app/?username=Kaarthika&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![Alt](https://visitcount.itsvg.in/api?id=Kaarthika&icon=0&color=12)](https://visitcount.itsvg.in)
