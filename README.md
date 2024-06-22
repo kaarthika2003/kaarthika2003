@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I'm currently pursuing my pre final year <br>👯 I’m looking to collaborate on java based application<br>🌱 I’m currently learning data structures and algorithm in java<br>💬 Ask me about Java
+👨‍🎓 I'm currently pursuing my final year <br>👯 I’m looking to collaborate on java based application<br>🌱 I’m currently learning data structures and algorithm in java<br>💬 Ask me about Java
 
 
 ## 🌐 Socials:
